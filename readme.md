@@ -24,3 +24,7 @@ A simple and responsive Currency Converter built using HTML, CSS, and JavaScript
 ## Author
 
 Zaid Farooqui
+
+## Preview
+
+![Currency Converter Screenshot](Screenshot.png)
