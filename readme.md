@@ -28,3 +28,7 @@ Zaid Farooqui
 ## Preview
 
 ![Currency Converter Screenshot](Screenshot.png)
+
+## Live Demo
+
+🔗 https://zaid-dev12.github.io/Currency-Converter-App/
